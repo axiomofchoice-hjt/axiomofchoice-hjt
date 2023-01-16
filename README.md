@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @axiomofchoice-hjt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 我是 @axiomofchoice-hjt
+- 现就读于 HDU
+- 退役 ACMer & World Finalist
+- 准华子员工
+- 个人博客 https://axiomofchoice-hjt.github.io/
 
 <!---
 axiomofchoice-hjt/axiomofchoice-hjt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
