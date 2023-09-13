@@ -1,7 +1,6 @@
 - 我是 @axiomofchoice-hjt
-- 现就读于 HDU
+- 现工作于华为
 - 退役 ACMer & World Finalist
-- 准华子员工
 - 个人博客 https://axiomofchoice-hjt.github.io/
 
 <!---
