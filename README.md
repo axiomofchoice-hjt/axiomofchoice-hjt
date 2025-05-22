@@ -1,5 +1,6 @@
-- 我是 @axiomofchoice-hjt
-- 现工作于华为
+### Hi there 👋，我是 Axiomofchoice (选择公理)
+
+- 现工作于华为计算产品线
 - 个人博客 <https://axiomofchoice-hjt.pages.dev>
 - 败犬日报 <https://makeinu-daily.pages.dev>
 
