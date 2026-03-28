@@ -1,4 +1,4 @@
-### Hi there 👋，我是 Axiomofchoice (选择公理)
+### Hi there 👋，我是选择公理 (axiomofchoice-hjt)
 
 - 现工作于华为计算产品线
 - 个人博客 <https://axiomofchoice-hjt.pages.dev>
