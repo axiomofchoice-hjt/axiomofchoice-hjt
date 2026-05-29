@@ -1,7 +1,7 @@
 ### Hi there 👋，我是选择公理 (axiomofchoice-hjt)
 
 - 现工作于华为计算产品线
-- 个人博客 <https://axiomofchoice-hjt.pages.dev>
+- 个人博客 <https://axiomofchoice-hjt.github.io>
 - 败犬日报 <https://makeinu-daily.pages.dev>
 - 联系方式 [QQ](https://qm.qq.com/q/o2qw5F5Gp4) [email](mailto:axiomofchoice@163.com)
 
